@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
+  <img src="./assets/miatsuno-banner.svg" alt="MIATSUNO — building in the dark" />
+</div>
 
-<!--
-**MIATSUNO/MIATSUNO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">MIATSUNO</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <code>code</code> · <code>systems</code> · <code>imagination</code>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>Building quietly. Leaving traces in public.</em>
+</p>
+
+## / about
+
+I build, study, and publish things that live somewhere between software, systems, and imagination.
+
+> The visible layer is only the interface.
+
+## / projects
+
+### Kachey
+
+A project by MIATSUNO — developed in public, one layer at a time.
+
+### Kayepad
+
+A project I contribute to and am associated with as an author.
+
+### Other public work
+
+Tools, experiments, notes, and unfinished ideas that deserve a place in the open.
+
+## / currently
+
+- Building **Kachey**
+- Contributing to **Kayepad**
+- Exploring creative software, systems, and open-source workflows
+- Turning strange ideas into working prototypes
+
+## / contact
+
+The best way to reach me is through the public projects and repositories on this profile.
+
+<div align="center">
+  <sub>© MIATSUNO · built in public</sub>
+</div>
