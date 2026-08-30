@@ -1,5 +1,9 @@
 # MIATSUNO
+<div align="center">
+<img src="./assets/miatsuno-banner.svg" alt="MIATSUNO" />
+</div>
 
+<h1 align="center">MIATSUNO</h1>
 Eu programo, testo e publico coisas que acho interessantes. Às vezes elas são úteis; às vezes são só uma boa ideia que eu precisava tirar da cabeça.
 
 ## projetos
