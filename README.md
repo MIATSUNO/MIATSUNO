@@ -1,10 +1,6 @@
-<div align="center">
-<img src="./assets/miatsuno-banner.svg" alt="MIATSUNO" />
-</div>
+# MIATSUNO
 
-<h1 align="center">MIATSUNO</h1>
-
-<p align="center">Eu gosto de fazer coisas estranhas funcionarem.</p>
+Eu programo, testo e publico coisas que acho interessantes. Às vezes elas são úteis; às vezes são só uma boa ideia que eu precisava tirar da cabeça.
 
 ## projetos
 
@@ -12,8 +8,6 @@ https://kachey.neocities.org
 
 https://kayepad.neocities.org
 
-## por aqui
+## aqui no GitHub
 
-Código, sistemas, ideias esquisitas e ferramentas que resolvem problemas de verdade.
-
-Sem pose de guru. Eu faço, testo, quebro, conserto e publico.
+Ferramentas, experimentos e projetos pessoais. Sem currículo enfeitado e sem coleção de badge.
