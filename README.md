@@ -8,9 +8,9 @@
 
 ## projetos
 
-[Kachey](https://github.com/MIATSUNO/Kachey)
+https://kachey.neocities.org
 
-[Kayepad](https://github.com/MIATSUNO/Kayepad)
+https://kayepad.neocities.org
 
 ## por aqui
 
