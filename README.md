@@ -20,13 +20,13 @@ I build, study, and publish things that live somewhere between software, systems
 
 ## / projects
 
-### Kachey
+### [Kachey](https://github.com/MIATSUNO/Kachey)
 
 A project by MIATSUNO — developed in public, one layer at a time.
 
-### Kayepad
+### [Kayepad](https://github.com/MIATSUNO/Kayepad)
 
-A project I contribute to and am associated with as an author.
+A project I contribute to and am associated with as an author. This profile does not claim ownership of the project.
 
 ### Other public work
 
