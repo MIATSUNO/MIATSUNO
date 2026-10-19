@@ -2,10 +2,9 @@
   <img src="./assets/miatsuno-banner.svg" alt="MIATSUNO — Kaye Bird" width="100%">
 </div>
 
-# Oi, eu sou a Kaye Bird — Miatsuno por aqui ✦
+# Oi, eu sou o Gabriel — Miatsuno por aqui  no GB
 
-Eu programo, testo, erro, ajusto e publico coisas que acho interessantes. Às vezes elas resolvem um problema; às vezes são só uma ideia que eu precisava tirar da cabeça. Gosto de criar projetos com identidade própria, principalmente em torno de escrita, música e ferramentas para a web.
-
+Eu sou desenvolvedor, programador e amante de tecnologia. Aqui no meu perfil eu testo, erro, ajusto e publico coisas que acho interessantes. 
 ## meus projetos
 
 - **[Kayepad](https://kayepad.neocities.org)** — um espaço para escrever, revisar, criar capas, ler e cuidar das próprias histórias, sem abrir mão da sua voz.
