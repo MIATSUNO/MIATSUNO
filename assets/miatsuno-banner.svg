@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
   <title id="title">MIATSUNO — Kaye Bird</title>
-  <desc id="desc">Banner de Kaye Bird, também conhecida como Miatsuno, com sinais luminosos, referências à escrita, música, Kayepad e Kachey.</desc>
+  <desc id="desc">Meu banner Miatsuno, com sinais luminosos, referências à escrita, música, Kayepad e Kachey.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#070b12" />
@@ -48,6 +48,6 @@
     <circle cx="860" cy="80" r="4"><animate attributeName="opacity" values=".25;1;.25" dur="2.2s" begin=".7s" repeatCount="indefinite" /></circle>
   </g>
   <text x="680" y="111" text-anchor="middle" fill="#f4f7fb" font-family="monospace" font-size="58" font-weight="700" letter-spacing="12">MIATSUNO</text>
-  <text x="680" y="145" text-anchor="middle" fill="#7cffcb" font-family="sans-serif" font-size="17" font-weight="700" letter-spacing="2">KAYE BIRD · ESCRITA, MÚSICA E IDEIAS NA WEB</text>
+  <text x="680" y="145" text-anchor="middle" fill="#7cffcb" font-family="sans-serif" font-size="17" font-weight="700" letter-spacing="2">KAYEPAD · KACHEY E IDEIAS NA WEB</text>
   <text x="680" y="176" text-anchor="middle" fill="#aab7c8" font-family="monospace" font-size="13" letter-spacing="3">KAYEPAD · KACHEY · MIATSUNO-LAB</text>
 </svg>
