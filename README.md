@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/miatsuno-banner.svg" alt="MIATSUNO" width="100%">
+  <img src="./assets/miatsuno-bannerl.svg" alt="MIATSUNO" width="100%">
 </div>
 
 # Oi, eu sou o Gabriel — Miatsuno aqui  no GB
