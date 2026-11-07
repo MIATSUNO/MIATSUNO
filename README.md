@@ -14,4 +14,4 @@ Eu sou desenvolvedor, programador e amante de tecnologia. Aqui no meu perfil eu 
 
 ## chega mais
 
-Dá uma passada nos sites da [Kayepad](https://kayepad.neocities.org) e do [Kachey](https://kachey.neocities.org), explora os projetos aqui no GitHub e, se curtir o que eu faço, me segue no Instagram: **@Morvezitto**.
+Dá uma passada nos sites da [Kayepad](https://kayepad.neocities.org) e do [Kachey](https://kachey.neocities.org), explora os projetos aqui no GitHub e, se curtir o que eu faço, me segue no ** [Kayepad](https://instagram.com/miat.suno)**.
