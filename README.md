@@ -1,17 +1,22 @@
 <div align="center">
-  <img src="./assets/miatsuno-banner.svg?v=20261019-2209" alt="MIATSUNO" width="100%">
+  <img src="./assets/miatsuno-banner.svg?v=20261113" alt="MIATSUNO" width="100%">
 </div>
 
-# Oi, eu sou o Gabriel — Miatsuno aqui  no GB
+# Oi, eu sou o Gabriel — Miatsuno
 
-Eu sou desenvolvedor, programador e amante de tecnologia. Aqui no meu perfil eu testo, erro, ajusto e publico coisas que acho interessantes. 
-## meus projetos
+Sou desenvolvedor e gosto de criar projetos, experimentar ideias e aprender construindo.
 
-- **[Kayepad](https://kayepad.neocities.org)** — um espaço para escrever, revisar, criar capas, ler e cuidar das próprias histórias, acompanhar seus perfis literários e criações, adicionar sua obra verificada na Veristante e muito mais, de forma gratuita e sem abrir mão da sua autoria.
-- **[Kachey](https://kachey.neocities.org)** — meu Music Vault para explorar referências musicais e acordes, compor, organizar suas músicas e composições e ferramentas de prática e edição de audio.
-- **[MIATSUNO-Lab](https://github.com/MIATSUNO/MIATSUNO-Lab)** — laboratorio de ferramentas de automação, segurança defensiva, programação e meus experimentos.
-- **[Baixe](https://github.com/MIATSUNO/baixe)** — guias de instalação e uso das ferramentas do MIATSUNO-Lab, incluindo Termux.
+## Projetos
 
-## chega mais
+- **[Kayepad](https://kayepad.neocities.org/)** — espaço gratuito para escrever, revisar, criar capas, ler e acompanhar obras; inclui o catálogo editorial Veristante.
+- **[Kachey](https://kachey.neocities.org/)** — Music Vault no navegador para referências musicais, acordes, organização e ferramentas de prática e edição de áudio.
+- **[Istúdiu](https://github.com/MIATSUNO/Istudiu)** — aplicativo gratuito e offline de criação de capas digitais.
+- **[Llibi AI](https://github.com/MIATSUNO/Llibi-AI)** — assistente digital configurável para tarefas do dia a dia.
+- **[Miatra](https://github.com/MIATSUNO/Miatra)** — aplicativo Android de navegador web com HackerBar.
+- **[Miatras-X](https://github.com/MIATSUNO/Miatras-X)** — CLI modular e educacional de diagnóstico e segurança autorizada para Termux.
+- **[MIATSUNO-Lab](https://github.com/MIATSUNO/MIATSUNO-Lab)** — ferramentas de automação, segurança defensiva, utilitários de programação e experimentos.
+- **[Baixe](https://github.com/MIATSUNO/baixe)** — guias em português para instalar e usar ferramentas do MIATSUNO-Lab.
 
-Dá uma passada nos sites da [Kayepad](https://kayepad.neocities.org) e do [Kachey](https://kachey.neocities.org), explora os projetos aqui no GitHub e, se curtir o que eu faço, me segue no ** [Instagram](https://instagram.com/miat.suno)**.
+## Links
+
+- [Instagram](https://instagram.com/miat.suno)
